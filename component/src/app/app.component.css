@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.text {
+  color: blue;
+}
+.row {
+  max-width: 100%;
+  height: auto;
+  background-color: bisque;
+}
+.qua {
+  width: 50%;
+  height: 15rem;
+  background-color: #fff;
+  margin-left: 50%;
+}
